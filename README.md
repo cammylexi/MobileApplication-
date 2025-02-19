@@ -28,3 +28,6 @@ is a mobile application designed to help users optimize their diet based on the 
  - Phase 1 (Jan 26 - Jan 31): User stories, wireframes, and database schema.
  - Phase 2 (Feb 1 - Mar 16): Backend implementation, AI integration, and initial UI.
  - Phase 3 (Mar 17 - Apr 4): Final features, testing, and deployment.
+
+
+
