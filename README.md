@@ -1,9 +1,9 @@
 # Mobile Application
 
-##Nutrition Intelligence 
+## Nutrition Intelligence 
 is a mobile application designed to help users optimize their diet based on the food they have at home and meals from restaurants. Using AI-driven recommendations, the app suggests balanced meal options, tracks nutritional intake, and provides weekly insights to improve users' eating habits.
 
-###Key Features
+### Key Features
 
 ✅ Smart Meal Suggestions – AI-powered recommendations based on available ingredients & restaurant choices.
 
@@ -18,7 +18,7 @@ is a mobile application designed to help users optimize their diet based on the 
 ✅ Cloud Storage & Sync – Securely store user data with Firebase & MongoDB.
 
 
-###Tech Stack
+### Tech Stack
 - Frontend: Swift (iOS)
 - Backend: Python (Flask/FastAPI) with ChatGPT API
 - Database: MongoDB (subject to change), Firebase
